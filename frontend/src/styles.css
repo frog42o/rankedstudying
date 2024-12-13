@@ -1,0 +1,23 @@
+.outer-container{
+    margin-top: 50vh;
+}
+.btn-container{ /* button wrapper */
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    width: 200px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding:5px;
+}
+.btn-container:hover{
+    background-color: #d3d3d3;
+}
+.btn-logo{
+    padding-right: 2px;
+    width: 24px;
+    height:24px;
+    object-fit: cover;
+    border-radius: 50%;
+}
